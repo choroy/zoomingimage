@@ -51,7 +51,7 @@ _마크다_운 공부합시 다마크다 운마크다
 
 ### 스페이스 X 2 줄바꿈
 ![](http://www.designnas.com/img/img2.png)
-![](http://www.designnas.com/img/img2.png)
+![](http://www.designnas.com/img/img2.png)  
 ![](http://www.designnas.com/img/img2.png)
 
 ### 코드
