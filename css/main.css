@@ -12,6 +12,7 @@ body{
     height: 216px;
     float: left;
     position: relative;
+    overflow: hidden;
 }
 /*세번째*/
 .zoom li.large{
