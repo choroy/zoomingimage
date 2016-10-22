@@ -1,0 +1,87 @@
+body{
+    background: black;
+}
+
+.zoom{
+    width: 1296px;
+    margin: 50px;
+}
+
+.zoom li{
+    width: 432px;
+    height: 216px;
+    float: left;
+    position: relative;
+}
+/*세번째*/
+.zoom li.large{
+    height:432px;
+}
+
+.zoom li .img{
+    width: 432px;
+}
+
+.zoom li .title{
+    position: absolute;
+}
+
+.zoom li:nth-child(1) .title{
+    right: 23px;
+    bottom: 3px;
+}
+
+.zoom li:nth-child(2) .title{
+    right: 13px;
+    bottom: 104px;
+}
+
+.zoom li:nth-child(4) .title{
+    right: 12px;
+    bottom: 79px;
+}
+
+.zoom li:nth-child(5) .title{
+    right: 25px;
+    bottom: 28px;
+}
+
+.zoom li:nth-child(6) .title{
+    right: 51px;
+    bottom: 24px;
+}
+
+.zoom li:nth-child(7) .title{
+    right: 29px;
+    bottom: 26px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
